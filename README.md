@@ -2,7 +2,7 @@
 
 #EN
 
-Malysz is iplementation of control system for flying drone using Kalman filter.
+Malysz is implementation of control system for flying drone using Kalman filter.
 
 Optimal control system for drone
 
